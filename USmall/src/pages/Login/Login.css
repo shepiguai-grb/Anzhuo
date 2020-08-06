@@ -1,0 +1,14 @@
+.login div {
+    width: 80%;
+    margin: 20px auto 0px auto;
+}
+.login div input{
+    width: 77%;
+}
+
+.login p{
+    display: block;
+   width: 80%;
+   margin:20px auto 0px auto;
+   text-align: right;
+}
